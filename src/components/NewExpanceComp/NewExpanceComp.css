@@ -1,0 +1,57 @@
+.NewExpanceComp {
+  background-color: rgb(40, 88, 95);
+  width: 90%;
+  height: 40%;
+  margin-left: 5%;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.inputField {
+  display: flex;
+  border: none;
+  background-color: white;
+  color: black;
+  margin-top: 10px;
+  margin-left: 10px;
+  padding-left: 10px;
+}
+
+.date {
+  width: 44%;
+  height: 30px;
+}
+
+.amount {
+  width: 44%;
+  height: 30px;
+}
+
+.title {
+  width: 97%;
+  height: 30px;
+}
+
+.description {
+  width: 97%;
+  height: 100px;
+}
+
+.button {
+  height: 30px;
+  border: none;
+  width: 20%;
+  margin-top: 20px;
+}
+
+.newExpanceButton {
+  display: flex;
+  float: right;
+  background-color: #f98;
+  color: white;
+  font-weight: 900;
+  font-size: 17px;
+  margin-right: 20px;
+  justify-content: center;
+}

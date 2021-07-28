@@ -1,0 +1,15 @@
+.HomeComp {
+  background-color: rgb(3, 31, 37);
+  width: 100%;
+  text-align: center;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+.WebTitle {
+  font-size: 40px;
+  font-weight: 900;
+  color: white;
+  text-align: center;
+  background-color: rgb(40, 88, 95);
+}
